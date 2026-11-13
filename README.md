@@ -25,8 +25,13 @@ I'm a Computer Applications graduate passionate about software development and b
 - Technologies: React.js, JavaScript, Gemini API, Cloudflare Workers AI.
 - [Live Demo](https://smartbotbyaksa.netlify.app/)
 
-**Food Delivery Website**
-- Currently developing a food delivery website using React.js.
+**Star Kitchen – Food Ordering Website**
+-Developed a responsive food ordering website using React.js and Tailwind CSS.
+-Implemented food search and category-based filtering.
+-Built shopping cart functionality with add, remove and quantity update features.
+-Used Redux Toolkit for cart state management and Context API for sharing application state.
+-Implemented automatic price calculation, including subtotal, delivery charges and taxes.
+-Integrated React Toastify for notifications.
 
 ### 📫 Connect With Me
 
