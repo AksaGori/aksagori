@@ -23,7 +23,7 @@ I'm a Computer Applications graduate passionate about software development and b
 **Smart AI Bot**
 - Built an AI chatbot with text response, image upload and AI image generation features.
 - Technologies: React.js, JavaScript, Gemini API, Cloudflare Workers AI.
-- [Live Demo](https://smartbotbyaksa.netlify.app/)
+- [Live Demo](https://star-fooddelivery-app.netlify.app/)
 
 **Star Kitchen – Food Ordering Website**
 -Developed a responsive food ordering website using React.js and Tailwind CSS.
@@ -32,6 +32,7 @@ I'm a Computer Applications graduate passionate about software development and b
 -Used Redux Toolkit for cart state management and Context API for sharing application state.
 -Implemented automatic price calculation, including subtotal, delivery charges and taxes.
 -Integrated React Toastify for notifications.
+- [Live Demo](https://smartbotbyaksa.netlify.app/)
 
 ### 📫 Connect With Me
 
